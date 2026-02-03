@@ -1,5 +1,4 @@
 import 'package:auth_arkanzak/auth/presentation/signup_presentation.dart';
-import 'package:auth_arkanzak/auth/widgets/app_bar_auth.dart';
 import 'package:auth_arkanzak/auth/widgets/card_login.dart';
 import 'package:auth_arkanzak/core/constant/helper.dart';
 import 'package:flutter/material.dart';

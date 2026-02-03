@@ -1,6 +1,5 @@
 import 'package:auth_arkanzak/auth/model/user_model.dart';
 import 'package:auth_arkanzak/auth/widgets/custom_text_field.dart';
-import 'package:auth_arkanzak/auth/widgets/header_authentication.dart';
 import 'package:auth_arkanzak/auth/widgets/password_field.dart';
 import 'package:auth_arkanzak/core/constant/color_app.dart';
 import 'package:auth_arkanzak/core/constant/controller_button.dart';

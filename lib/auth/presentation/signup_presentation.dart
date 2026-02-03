@@ -1,4 +1,3 @@
-import 'package:auth_arkanzak/auth/widgets/app_bar_auth.dart';
 import 'package:auth_arkanzak/auth/widgets/card_create_an_account.dart';
 import 'package:auth_arkanzak/core/constant/helper.dart';
 import 'package:flutter/cupertino.dart';
